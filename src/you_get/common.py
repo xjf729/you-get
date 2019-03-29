@@ -126,6 +126,8 @@ SITES = {
     'zhanqi'           : 'zhanqi',
     'zhibo'            : 'zhibo',
     'zhihu'            : 'zhihu',
+    'cnmbtgf'          : 'xp1024',
+    'csjbzcjnr'        : 'xp1024'
 }
 
 dry_run = False
